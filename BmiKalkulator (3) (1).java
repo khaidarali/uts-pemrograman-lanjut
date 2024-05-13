@@ -36,3 +36,4 @@ public class BmiKalkulator {
     {
         return beratBadan / (tinggiBadanM * tinggiBadanM);
     test test
+test
