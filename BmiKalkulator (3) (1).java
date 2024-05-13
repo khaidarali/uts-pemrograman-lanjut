@@ -35,4 +35,4 @@ public class BmiKalkulator {
     private static double hitungBMI(double tinggiBadanM, double beratBadan)
     {
         return beratBadan / (tinggiBadanM * tinggiBadanM);
-    
+    test test
